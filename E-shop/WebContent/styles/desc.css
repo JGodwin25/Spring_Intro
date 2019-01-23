@@ -1,0 +1,18 @@
+.header{
+	background:#044565;
+	height:100px;
+	width:100%;
+}
+.nav{
+	height:40px;
+	width:100%;
+	margin-bottom-10px;
+}
+.container{
+	border:1px solid gray;
+	width:100%
+}
+.preview{
+	width:65%
+	border-right:1px dotted gray;
+}

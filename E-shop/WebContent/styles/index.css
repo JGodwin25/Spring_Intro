@@ -1,0 +1,34 @@
+.nav h2{
+	background:blaack;
+	opacity:0.5;
+}
+.container{
+	width:100%
+}
+.col-3{
+	width:25%;
+	float:left;
+	border:1px solid black;
+	height:700px;
+	background-color:black;
+	opacity:0.7;
+}
+.col-7{
+	width:58%;
+	float:left;
+	border:1px solid black;
+}
+.col-2{
+	width:16%;
+	float:left;
+	border:1px solid black;
+}
+.container a{
+	padding:3px;
+	padding-top:5px;
+	padding-bottom:5px;
+	background:aliceblue;
+	text-decoration:none;
+	width:99%;
+	margin-bottom:1px;
+}
